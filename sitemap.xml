@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/404.html</loc>
+    <loc>http://yoursite-url/CNAME.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/CNAME.html</loc>
+    <loc>http://yoursite-url/404.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
